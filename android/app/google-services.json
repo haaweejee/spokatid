@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698288081905",
+    "project_id": "spokatid-ff430",
+    "storage_bucket": "spokatid-ff430.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698288081905:android:ba3962d1e28337ca4a5250",
+        "android_client_info": {
+          "package_name": "id.haaweejee.spokat.spokat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698288081905-ij2hl7mcd05lgopa1s4e9j0ncfnkvm21.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo3kMcCshY9muhx3Ul1YJ0C2GfFqyHRP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698288081905-ij2hl7mcd05lgopa1s4e9j0ncfnkvm21.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
